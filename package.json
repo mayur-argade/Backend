@@ -4,7 +4,7 @@
   "description": "a basic social media app",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
   "keywords": [
     "express",
@@ -14,7 +14,9 @@
   "license": "ISC",
   "dependencies": {
     "date-format": "^4.0.3",
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "swagger-ui-express": "^4.3.0",
+    "yamljs": "^0.3.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"

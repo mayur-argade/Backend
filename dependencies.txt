@@ -5,3 +5,4 @@ date-format -
 pushing to heroku
 git init
 git ignore
+what is responce header
