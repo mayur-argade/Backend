@@ -1,0 +1,22 @@
+{
+  "name": "socialapp",
+  "version": "1.0.0",
+  "description": "a basic social media app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "api"
+  ],
+  "author": "Mayur Argade",
+  "license": "ISC",
+  "dependencies": {
+    "date-format": "^4.0.3",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
